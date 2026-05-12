@@ -1,0 +1,12 @@
+{
+  "name": "liquibar",
+  "type": "tool",
+  "description": "Open-source dock runtime for websites and apps — manages tools, surfaces, and overlays.",
+  "stage": "prototype",
+  "org": "madebymadhouse",
+  "repo": "madebymadhouse/liquibar",
+  "public": true,
+  "started": "2025-01-01",
+  "updated": "2026-05-11",
+  "notes": "Monorepo with pnpm workspaces. Product direction TBD — dock runtime vs bar inventory has drifted."
+}
