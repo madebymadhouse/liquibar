@@ -1,4 +1,8 @@
-# Liquidock
+![Liquidock banner](assets/banner.svg)
+
+<a href="#what-it-is"><img src="assets/buttons/btn-what-it-is.svg" alt="What it Is" /></a>&nbsp;<a href="#get-started"><img src="assets/buttons/btn-get-started.svg" alt="Get Started" /></a>&nbsp;<a href="#structure"><img src="assets/buttons/btn-structure.svg" alt="Structure" /></a>&nbsp;<a href="#contributing"><img src="assets/buttons/btn-contributing.svg" alt="Contributing" /></a>
+
+---
 
 Liquidock is an open-source dock runtime for websites and apps. It manages tools, attached surfaces, and overlays through a shared runtime model.
 
