@@ -6,10 +6,10 @@ Liquidock is in its first honest browser-viewable prototype phase. The quality b
 
 ## Principles
 
-- **Runtime correctness first** — state transitions and lifecycle behavior matter more than surface polish
-- **Keep UI dumb** — React and view layers should stay thin wrappers over runtime state
-- **Contract integrity** — tools and surfaces must obey the defined contracts
-- **One PR, one thing** — don't bundle runtime changes, docs rewrites, and workspace setup into one branch
+- **Runtime correctness first** - state transitions and lifecycle behavior matter more than surface polish
+- **Keep UI dumb** - React and view layers should stay thin wrappers over runtime state
+- **Contract integrity** - tools and surfaces must obey the defined contracts
+- **One PR, one thing** - don't bundle runtime changes, docs rewrites, and workspace setup into one branch
 
 ---
 

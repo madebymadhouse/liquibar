@@ -89,11 +89,11 @@ The full Mad House fleet can be dropped into `.github/agents/` and used to keep 
 
 | Agent | What it does |
 |---|---|
-| `@delegator` | Single entry point — routes work to the right specialist agents |
+| `@delegator` | Single entry point - routes work to the right specialist agents |
 | `@git-keeper` | Branching, commits, PR descriptions, and merge hygiene |
 | `@coder` | Writes or changes production code |
 | `@reviewer` | Reviews changes before PR or merge |
 | `@writer` | Humanizes docs and prose |
 | `@beautiful-readme` | README structure and presentation |
 | `@auditor` | Structured repo audit |
-| `@security` | Security audit — secrets, auth, injection, deps |
+| `@security` | Security audit - secrets, auth, injection, deps |
